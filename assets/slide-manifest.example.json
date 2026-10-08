@@ -1,0 +1,26 @@
+{
+  "title": "PLACEHOLDER — replace with verified talk title",
+  "duration_minutes_assumed": 15,
+  "language": "en",
+  "audience": "astronomers across subfields",
+  "venue_requirements_verified": false,
+  "central_message": "PLACEHOLDER — one verified central result",
+  "slides": [
+    {
+      "number": 1,
+      "purpose": "research question and motivation",
+      "title": "PLACEHOLDER — scientific take-home headline",
+      "takeaway": "PLACEHOLDER — one testable statement",
+      "evidence": [],
+      "figure_paths": [],
+      "source_urls": [],
+      "credits": [],
+      "uncertainties_and_caveats": [],
+      "alt_text": [],
+      "speaker_notes": "Introduce physical motivation and transition to data.",
+      "budget_seconds": 40,
+      "backup": false,
+      "verified": false
+    }
+  ]
+}
